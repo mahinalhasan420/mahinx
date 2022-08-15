@@ -405,7 +405,7 @@ logo = """
 \x1b[1;97m[+] Version :\x1b[1;97m  0.0.2    \x1b[1;97m          
 \x1b[1;97m--------------------------------------
 """
- \x1b[1;97m[+] press (1) to start clone
+
 
 class Main:
 	def __init__(self):
